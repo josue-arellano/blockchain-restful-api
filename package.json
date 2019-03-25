@@ -1,0 +1,15 @@
+{
+  "name": "blockchain-api",
+  "version": "1.0.0",
+  "description": "API for blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "goon-squad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
